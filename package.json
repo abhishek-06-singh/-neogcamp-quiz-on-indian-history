@@ -1,0 +1,26 @@
+{
+  "name": "-neogcamp-quiz-on-indian-history",
+  "version": "1.0.0",
+  "description": "Assignment for first week, a indian history quiz",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-06-singh/-neogcamp-quiz-on-indian-history.git"
+  },
+  "author": "abhishek singh",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "chalk": "^5.2.0",
+    "node-fetch": "^3.2.6",
+    "readline-sync": "^1.4.10"
+  },
+  "bugs": {
+    "url": "https://github.com/abhishek-06-singh/-neogcamp-quiz-on-indian-history/issues"
+  },
+  "homepage": "https://github.com/abhishek-06-singh/-neogcamp-quiz-on-indian-history#readme"
+}
