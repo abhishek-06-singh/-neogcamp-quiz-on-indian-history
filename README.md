@@ -16,7 +16,7 @@ Indian History Quiz is a command-line quiz game built with JavaScript. Test your
 1. Open a terminal or command prompt.
 2. Navigate to the directory where the code files are located.
 3. Run the command `npm install readline-sync chalk` to install the required packages.
-4. Run the command `node quiz.js` to start the game.
+4. Run the command `node index.js` to start the game.
 5. Enter your name when prompted and press Enter.
 6. Read each question and type your answer. Press Enter to submit your answer.
 7. At the end of the quiz, the game will display your score and whether you cleared each level.
