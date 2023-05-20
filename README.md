@@ -1,8 +1,8 @@
-# neogcamp-quiz-on-indian-history
+# Indian History Quiz
 
 Assignment for first week, a quiz on indian-history
 
-## Indian History Quiz
+## MarkTwo--neogcamp
 
 Indian History Quiz is a command-line quiz game built with JavaScript. Test your knowledge of Indian history by answering multiple-choice questions.
 
